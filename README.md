@@ -4,12 +4,12 @@ No signup.
 No API.
 Just clean generation.
 
----
-
-## Live Demo
 
 
----
+## Live Demo : https://qrgenerator-indol-chi.vercel.app/
+
+
+
 
 ## Features
 - Generate QR codes **instantly** as you type
@@ -25,7 +25,6 @@ Just clean generation.
 - No ads
 - No watermarks
 
----
 
 ## Tech Stack
 - React (Vite)
@@ -33,7 +32,7 @@ Just clean generation.
 - Vanilla CSS (Apple-inspired UI)
 - Vercel (static deploy)
 
----
+
 
 ## How It Works
 1. Type or paste any text / URL
@@ -43,14 +42,11 @@ Just clean generation.
 
 > All generation happens client-side. Nothing is uploaded.
 
----
 
 ## Privacy
 All processing happens **locally in your browser**.
 No data is sent to any server.
 Your content never leaves your device.
-
----
 
 ## Installation
 ```bash
